@@ -1,0 +1,8 @@
+
+{
+  "name": "Kristal",
+  "description": "A modern, secure, and extensible communication platform clone featuring text and voice UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
